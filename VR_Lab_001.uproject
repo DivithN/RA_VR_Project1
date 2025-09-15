@@ -68,6 +68,14 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "ViveOpenXR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			]
 		}
 	],
 	"TargetPlatforms": [
